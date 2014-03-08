@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 $council = "Donegal county Council";
 $uri = "http://www.donegalcoco.ie/council/members/";
